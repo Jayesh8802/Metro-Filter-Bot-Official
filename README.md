@@ -97,4 +97,4 @@ python3 bot.py
 ```
 
 <b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝐌𝐄𝐓𝐑𝐎𝐌𝐀𝐍](https://t.me/Metrorequestbot) | [ɢɪᴛʜᴜʙ](GitHub.com/Jayesh8802)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [𝐌𝐞𝐭𝐫𝐨𝐇𝐃𝐦𝐨𝐯𝐢𝐞𝐬](https://t.me/Metrohdmovies)</b>
+<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴇᴛʀᴏʜᴅᴍᴏᴠɪᴇꜱ](https://t.me/Metrohdmovies)</b>

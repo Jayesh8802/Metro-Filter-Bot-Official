@@ -2,7 +2,7 @@ See<p align="center">
   <img src="assets/AJAX.png" alt="Ajax Techz">
 </p>
 <h1 align="center">
-  <b>𝐌𝐄𝐓𝐑𝐎 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
+  <b>𝙼𝙴𝚃𝚁𝙾 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅𝟹</b>
 </h1>
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝐌𝐄𝐓𝐑𝐎𝐌𝐀𝐍](https://t.me/Metrorequestbot) | [ɢɪᴛʜᴜʙ](GitHub.com/Jayesh8802)</b>                                                                                                                                                                                    
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴍᴇᴛʀᴏᴍᴀɴ](https://t.me/Metrorequestbot) | [ɢɪᴛʜᴜʙ](GitHub.com/Jayesh8802)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴇᴛʀᴏʜᴅᴍᴏᴠɪᴇꜱ](https://t.me/Metrohdmovies)</b>
